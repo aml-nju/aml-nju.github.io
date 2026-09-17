@@ -1,16 +1,27 @@
-## Hi there 👋
+# Advanced Machine Learning Course Website
 
-<!--
-**aml-nju/aml-nju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+高级机器学习课程网站。
 
-Here are some ideas to get you started:
+## 功能
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+本网站主要提供以下功能：
+
+- 课程介绍
+- 课程课件下载
+- 教学视频链接
+- 调查问卷链接
+- 作业提交链接
+
+## Website
+
+https://aml-nju.github.io/
+
+## Deployment
+
+This website is deployed using GitHub Pages.
+
+## Technology
+
+- HTML
+- CSS
+- GitHub Pages
