@@ -141,6 +141,43 @@ section h2 {
 
 
 /* ==============================
+   课程QQ群
+   ============================== */
+
+.qq-group {
+    margin-top: 30px;
+    padding: 20px;
+    text-align: center;
+
+    background-color: #f7f3fa;
+    border-radius: 8px;
+}
+
+.qq-group h3 {
+    margin-top: 0;
+    color: #5b2c83;
+}
+
+.qq-group img {
+    display: block;
+    width: 180px;
+    max-width: 100%;
+    height: auto;
+    margin: 15px auto;
+
+    border-radius: 6px;
+}
+
+.qq-group p {
+    color: #666;
+}
+
+.qq-tip {
+    font-size: 13px;
+    color: #999;
+}
+
+/* ==============================
    卡片
    ============================== */
 
